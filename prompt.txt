@@ -1,0 +1,4 @@
+I need a clone of this https://durga-abacus.vercel.app/ 
+I need this math test platform where the code must be efficient and optimised to run in any browser , tablet , desktop and 
+phone too 
+Act has a devloper it should be scaled for any no.of users
